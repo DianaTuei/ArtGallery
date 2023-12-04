@@ -1,0 +1,23 @@
+/* selector (what do you want to atyle: id,class, tagname ) {
+    styling property : value of the property
+} */ 
+
+/* to use id */
+/* #name of id */
+/* id's are unique */
+#paraId {
+    background-color: blue;
+    padding:  10px;
+}
+/* to use the class name */
+/* .classname */
+/* class are groupings */
+.paraClass {
+    background-color: yellow;
+    padding: 5px;
+}
+/* tag name */
+p {
+   background-color: aqua;
+   padding: 2px; 
+}
